@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm AUBREE NOLES (BREE) 👋
 
-<!--
-**anoles1025/anoles1025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m a Mass Communications major with a minor in Applied Communications Studies at Southern Illinois University Edwardsville.
+This semester I’m working on projects in R/RStudio and documenting progress in my weekly journal.
 
-Here are some ideas to get you started:
+## What I’m learning this term
+- R, RStudio, and Quarto for data analysis & reporting
+- Git + GitHub for version control and collaboration
+- Research methods and reproducible workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Find me
+- Email: anoles@siue.edu
+- LinkedIn: www.linkedin.com/in/aubree-noles-724972332
+- 
